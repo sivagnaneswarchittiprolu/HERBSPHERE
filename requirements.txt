@@ -1,5 +1,7 @@
 transformers
 streamlit
 fuzzywuzzy
-python-Levenshtein
 pandas
+PyTorch
+TensorFlow
+tf-keras
