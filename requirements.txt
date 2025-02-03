@@ -9,3 +9,4 @@ opencv-python
 python-dotenv
 numpy
 pandas
+langchain-community
