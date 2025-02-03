@@ -6,7 +6,6 @@ langchain-google-genai
 google-generativeai
 faiss-cpu
 SpeechRecognition
-opencv-python
 python-dotenv
 numpy
 pandas
